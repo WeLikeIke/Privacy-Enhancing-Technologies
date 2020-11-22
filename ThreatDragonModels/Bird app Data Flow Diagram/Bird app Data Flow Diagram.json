@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Bird app Data Flow Diagram"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "DFT Bird",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
