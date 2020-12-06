@@ -814,6 +814,11 @@
           "height": 590,
           "width": 985
         }
+      },
+      {
+        "title": "dfd",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ]
   }
